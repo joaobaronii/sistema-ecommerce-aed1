@@ -15,4 +15,4 @@ Este projeto foi desenvolvido como parte da disciplina de **Algoritmos e Estrutu
 
 ## Observações
 
-Este projeto foi o **primeiro projeto maior** desenvolvido no segundo semestre da minha faculdade, em 2023. Ele não segue os padrões de **código limpo** e não possui **boas práticas de programação**. No entanto, foi essencial para meu aprendizado inicial em estruturas de dados.
+Este projeto foi o **primeiro projeto** desenvolvido no segundo semestre da minha graduação, em 2023. Por ter sido meu primeiro contato com um sistema minimamente elaborado, contém práticas que podem ser aprimoradas em termos de organização e legibilidade, mas foi essencial para meu aprendizado inicial em estruturas de dados.
